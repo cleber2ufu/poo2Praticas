@@ -12,4 +12,5 @@ public class PersonagemTipo1 extends Personagem {
 		
 	}
 
+
 }
